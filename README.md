@@ -18,8 +18,7 @@ The original factory software often leaves several critical strings, macro setti
 ## 🛠️ How to Install
 
 1. Download and extract (unzip) the file.
-2. Replace the file inside your Redragon software installation folder.
-3. Run the software.
+2. Run the software.
 
 ---
 
