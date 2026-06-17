@@ -17,14 +17,9 @@ The original factory software often leaves several critical strings, macro setti
 
 ## 🛠️ How to Install
 
-To apply the English translation to your Redragon software, follow these simple steps:
-
-1. **Download** the `config.xml` (or similarly named localization XML file) from this repository.
-2. Open your File Explorer and navigate to the installation directory of your Redragon software (usually located in `C:\Program Files (x86)\Redragon...` or `C:\Program Files\Redragon...`).
-3. Look for the language or configuration folder (often named `config`, `lang`, or located right in the root folder).
-4. **Backup** your original XML file just in case (e.g., rename it to `config.xml.bak`).
-5. **Paste** the downloaded English `config.xml` into the folder, replacing the original.
-6. Restart the Redragon software.
+1. Download and extract (unzip) the file.
+2. Replace the file inside your Redragon software installation folder.
+3. Run the software.
 
 ---
 
