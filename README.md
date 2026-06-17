@@ -18,10 +18,10 @@ The original factory software often leaves several critical strings, macro setti
 ## 🛠️ How to Install
 
 1. Download and extract (unzip) the file.
-2. Run the software.
+2. Run KeyboardDrv.exe.
 
 ---
 
 ## 🤝 Contributing
 
-If you notice any mistranslations, or if a software update introduces new untranslated strings, feel free to open an Issue or submit a Pull Request!
+If you notice any mistranslations or if a software update introduces new untranslated strings, feel free to open an Issue or submit a Pull Request!
